@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+.bg-container{
+	height:500px;
+	width:500px;
+	background-color: #cccccc;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.anchors-container{
+	background-color:white;
+	height:120px;
+	width:90%;
+	margin:10px;
+	padding:10px;
+	border-radius:2px;
+	border:1px solid black;
+}
+
+.heading{
+	text-align:center;
+	font-weight:10;
+	font-size:20px;
+
+
+.player_one{
+	background-color:white;
+	text-align:center;
+	border:1px solid white;
+	height:100px;
+	width:300px;
+
+}
+
+.heading{
+	text-align:center;
+	font-weight:10;
+	font-size:5px;
+}
+.video{
+		text-align:center;
+	}
