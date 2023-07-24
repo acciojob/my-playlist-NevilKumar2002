@@ -31,6 +31,12 @@
 	
 	
 }
+video{
+	height:150px;
+	width:260px;
+	align-items:center;
+	padding:20px;
+}
 
 
 
