@@ -1,7 +1,10 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(204, 204, 204);
+}
 .bg-container{
 	height:100%;
-	background-color:rgb(204, 204, 204);
+	
 	display:flex;
 	flex-direction:column;
 	align-items:center;
